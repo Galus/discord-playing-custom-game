@@ -10,7 +10,7 @@ Don't trust me? Compile it yourself
 ========================================================
 1. download or clone this repository
 2. run 'gcc discord-playing.cpp -o discord-playing.exe' (replace gcc with c++ using mingw)
-3. rename file to **fake_game_name**.exe 
+3. rename discord-playing.exe file to **fake_game_name**.exe 
 4. double click to run the program!
 
 
